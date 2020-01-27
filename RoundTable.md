@@ -3,7 +3,7 @@
 
 # RoundTable Discussion Preparation 
 
-### Due November 12 via your Github repo for the final project
+### Due April 8th via your Github repo for the final project
 
 #### 5% of your final grade (2.5% research + presentation; 2.5% participation re: others' presentations and ideas)
  
@@ -34,4 +34,4 @@
 #### Create a Repo for this Final Project. Upload a folder called "RoundTable Presentation" to your repo with all of the above materials inside of it.
 
 
-**Due November 12 POSTED TO YOUR GITHUB repo**
+**Due April 8th POSTED TO YOUR GITHUB repo**
