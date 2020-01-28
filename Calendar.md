@@ -81,16 +81,16 @@
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"><a href="week_10_detail.md"> April 6<br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
+	<td valign="top"> April 6<br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
 	</td>
-	<td valign="top"><a href="week_10_detail.md">April 8<br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
+	<td valign="top">April 8<br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top"><a href="week_11_detail.md">April 13<br><strong>Working with API's</strong>	
+	<td valign="top">April 13<br><strong>Working with API's</strong>	
 	</td>
-	<td valign="top"><a href="week_11_detail.md">April 15<br><strong>Physical Computing<br>Show & Tell <br></strong>
+	<td valign="top">April 15<br><strong>Physical Computing<br>Show & Tell <br></strong>
 	</td>
 </tr>
 <tr>
