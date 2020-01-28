@@ -27,7 +27,6 @@
 	 P5<br>
 	Functions + passing parameters <br>
 	Arrays<br>
-	<a href = "sketch_4.md">Sketch 4</a><br>
 	Show & Tell <br>
 	</td>
 
@@ -41,7 +40,7 @@
 	</td>
   	<!-- day Wed -->
   	<td valign="top"> 
-     <li> Learning Processing Ch. 7,9 </li> 
+     <li> Learning Processing Ch. 7, 9 </li> 
    </td>
 </tr>
  <!-- do -->

@@ -45,7 +45,7 @@
 </tr>
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Feb 24</a><br>	<strong><br><strong>Sketch 3 Due<br> <br>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_5_detail.md">Feb 24</a><br>	<strong>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
 	<td valign="top"><a href="week_5_detail.md">Feb 26</a><br>
 		<strong>Object Orientated Programming <br>Passing Parameters <br>In-class Challenge <br></strong>
 	</td>
