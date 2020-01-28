@@ -3,7 +3,7 @@ Creative Coding Syllabus &amp; Class repo
 
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
-* [Slack Workspace](https://creativecodin-jci9388.slack.com.)
+* [Slack Workspace](https://creativecodin-jci9388.slack.com)
 * [openProcessing Workspace (where homework is submitted)]()
 * **Office Hours: by appointment**
 
@@ -124,7 +124,8 @@ We will utilize a variety of tools to make this class successful and to create y
 • [Learning Processing, SECOND EDITION by Daniel Shiffman](http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
 This book is available for purchase in the NYU bookstore. You can check the status of the book at the NYU library [here](http://library.nyu.edu/). This book in it's initial edition is available as an online book via [here](http://bobcat.library.nyu.edu).
 
-• [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
+• [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/) ISBN-13: 978-1616890773 GD. Note: The first edition is in Processing. The second edition is in P5.js. I suggest getting the second edition as it will be a more robost resource for P5.js. Get the book. Do not just download the code.
+
 This book is available for purchase in the NYU bookstore. You can check the status of the book at the NYU library[here](http://library.nyu.edu/)
 
 • [Make: Getting Started with P5.js by Lauren McCarthy](http://shop.oreilly.com/product/0636920032076.do)
@@ -144,6 +145,8 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 • [Slack](https://creativecodin-jci9388.slack.com) 
 
 • [Resources](Resources.md)
+
+• [P5.js WebEditor](https://editor.p5js.org/)
 
 
 [Highly Recommended Texted - Form + Code by Casey Reas and Chandler McWilliams](http://formandcode.com/) This book is available as an online book [here](http://bobcat.library.nyu.edu) 

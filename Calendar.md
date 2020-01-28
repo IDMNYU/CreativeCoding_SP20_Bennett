@@ -29,7 +29,7 @@
 	<td valign="top"><a href="week_3_detail.md">Feb 10</a><br><strong>Motion<br>Random<br>Functions<br>Print Statements<br>
 	Show & Tell<br></strong>
 	</td>
-	<td valign="top"><a href="week_3_detail.md">Feb 12</a><br><strong>Sketch 2 Due<br></strong>DeBugger + Loops (review)<br>
+	<td valign="top"><a href="week_3_detail.md">Feb 12</a><br>DeBugger + Loops (review)<br>
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions II <br>
 	Intro to P5 <br>

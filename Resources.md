@@ -112,13 +112,17 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • http://www.lynda.com/Processing-training-tutorials/1402-0.html
 
-###P5.js
+### P5.js
 
 • https://github.com/shiffman/LearningProcessing-p5.js
 
 • http://p5js.org/
 
 • http://p5js.org/tutorials/
+
+• [Web editor](https://editor.p5js.org/)
+
+• [Generative Design text](http://www.generative-gestaltung.de/2/)
 
 • [Dan Shiffman Tutorials](https://youtu.be/8j0UDiN7my4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
@@ -140,18 +144,18 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • [Curvers](http://yining1023.github.io/p5PlayGround/) <-- flip the live coding switch to playground
 
-###Text Editors
+### Text Editors
 
 • [Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
 
 • [Sublime](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 
-###Regular Expressions
+### Regular Expressions
 
 • [RegExr](http://regexr.com/)
 
 
-###Node.js 
+### Node.js 
 
 • [Intro to Node.js](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 
@@ -165,7 +169,7 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • [More installation options/methods](https://nodejs.org/en/download/package-manager/)
 
-####Command Line Prompt
+#### Command Line Prompt
 
 • [Unix Commands Mac](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 
@@ -181,7 +185,7 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • [XP Commands](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/ntcmds.mspx?mfr=true)
 
-####openFrameworks
+#### openFrameworks
 
 • https://sites.google.com/site/ofauckland/home
 
@@ -193,7 +197,7 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • http://www.memo.tv/simple-openframeworks-application-on-iphone-sample-1/
 
-####Git
+#### Git
 
 • http://gitref.org/
 
@@ -201,17 +205,17 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • http://git-scm.com/docs
 
-•  [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1")
+• [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1")
 
 • http://rogerdudler.github.com/git-guide/
 
 • http://www.lynda.com/GitHub-training-tutorials/1384-0.html
 
-####Xcode
+#### Xcode
 
 • http://www.lynda.com/Xcode-training-tutorials/451-0.html
 
-####Time Management
+#### Time Management
 
 [Rescue Time](https://www.rescuetime.com/)
 [Self Control](http://selfcontrolapp.com/) 
