@@ -22,6 +22,8 @@
 	</td>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
+	</td>
+	<td valign="top" width="48%">
 	 P5<br>
 	Functions + passing parameters <br>
 	Arrays<br>
