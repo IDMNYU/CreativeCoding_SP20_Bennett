@@ -17,11 +17,9 @@
 </tr>
 <!-- class -->
 <tr>
-	<td>
+	<td valign="top">class</td>
 	No Class President's Day
 	</td>
-	<td>
-			<td valign="top">class</td>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
 	 P5<br>
