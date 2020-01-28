@@ -40,7 +40,7 @@
 	<td>4</td>
 	<td valign="top"><a href="week_4_detail.md">Feb 17</a><br><strong>No Classes <br> President's Day</strong>
 	</td>
-	<td valign="top"><a href="week_4_detail.md">Feb 19</a><br><strong> P5<br>Functions + passing parameters<br>Show & Tell<br></strong>
+	<td valign="top"><a href="week_4_detail.md">Feb 19</a><br><strong>Functions + passing parameters<br>Show & Tell<br></strong>
 	</td>
 </tr>
 <tr>
@@ -52,8 +52,8 @@
 </tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail.md">March 2</a><br><strong>Images + pixels Manipulations<br></strong></td>
-	<td valign="top"><a href="week_6_detail.md">March 4</a><br><strong>Text & Image </strong></td>
+	<td valign="top"><a href="week_6_detail.md">March 2</a><br><strong>Vectors<br></strong></td>
+	<td valign="top"><a href="week_6_detail.md">March 4</a><br><strong>Vectors </strong></td>
 </tr>
 <tr>
 	<td> 7 </td>
@@ -67,32 +67,30 @@
 	<td valign="top">  <br> <strong> SPRING BREAK </strong> </td>
 </tr>
 <td>8</td>
-	<td valign="top"><a href="week_8_detail.md">March 23</a><br><strong>Vectors <br>Show & Tell <br></strong>	</td>
-	<td valign="top"><a href="week_8_detail.md">March 25</a><br><strong>Vectors + Forces + Steering <br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">March 23</a><br><strong>Vectors + Forces<br>Show & Tell <br></strong>	</td>
+	<td valign="top"><a href="week_8_detail.md">March 25</a><br><strong>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 30</a><br><strong>Text + Strings</strong> <br>
+	<td valign="top"><a href="week_9_detail.md">March 30</a><br><strong>Images + Pixel Manipulations</strong> <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
-	<td valign="top"><a href="week_9_detail.md">April 1</a><br><strong>Working with API's	<br>Show & Tell <br></strong><br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">April 1</a><br><strong>Text & String Manipulations	<br>Show & Tell <br></strong><br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"><a href="week_10_detail.md"> April 6</a><br><strong>Physical Computing<br>
-	Show & Tell<br></strong> <br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
-	<strong>Sketch 5 due ...</strong><br>
+	<td valign="top"><a href="week_10_detail.md"> April 6</a><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
 	</td>
-	<td valign="top"><a href="week_10_detail.md">April 8</a><br><strong><a href = "RoundTable.md">Roundtable for Final Projects (Due)	</a> </strong>
+	<td valign="top"><a href="week_10_detail.md">April 8</a><br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top"><a href="week_11_detail.md">April 13</a><br><strong><a href = "RoundTable.md">Roundtable for Final Projects</a></strong>	
+	<td valign="top"><a href="week_11_detail.md">April 13</a><br><strong><a href = "RoundTable.md">Working with API's</a></strong>	
 	</td>
-	<td valign="top"><a href="week_11_detail.md">April 15</a><br><strong>TBA <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_11_detail.md">April 15</a><br><strong>Physical Computing<br>Show & Tell <br></strong>
 	</td>
 </tr>
 <tr>
@@ -112,7 +110,7 @@
 		Topics by Request <br></strong></td>	
 </tr>
 <tr>	
-	<td>14</td><td valign="top">May 4<br><strong>TBR</strong>
+	<td>14</td><td valign="top">May 4<br><strong>TBA</strong>
 	</td>
 	<td valign="top">May 6<br><strong>Final Presentations</strong>
 	</td>

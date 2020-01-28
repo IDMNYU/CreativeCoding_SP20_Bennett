@@ -3,7 +3,7 @@
 
 # RoundTable Discussion Preparation 
 
-### Due April 8th via your Github repo for the final project
+### Due April 6th via your Github repo for the final project
 
 #### 5% of your final grade (2.5% research + presentation; 2.5% participation re: others' presentations and ideas)
  
