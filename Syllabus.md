@@ -6,6 +6,7 @@ Creative Coding Syllabus &amp; Class repo
 * [Slack Workspace](https://creativecodin-jci9388.slack.com)
 * [openProcessing Workspace (where homework is submitted)]()
 * **Office Hours: by appointment**
+* GA: [Che-Yu Wu](GA_Details.md)
 
 
 # Creative Coding: An Intro to Creative Coding
