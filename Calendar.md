@@ -112,15 +112,15 @@
 <tr>	
 	<td>14</td><td valign="top">May 4<br><strong>TBA</strong>
 	</td>
-	<td valign="top">May 6<br><strong>Final Presentations</strong>
+	<td valign="top">May 6<br><strong>TBA</strong>
 	</td>
 </tr>
 <tr>	
-	<td>14</td><td valign="top">May 11<br><strong>Final Presentations</strong>
+	<td>14</td><td valign="top">May 11<br><strong>ALL Final Presentations</strong>
 	</td>
 <tr>
 	<td>Finals Week</td>
-	<td valign="top" colspan="2">May 13<br><strong>No on-campus meeting; Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE </a><br>Have a great summer!<br></strong>
+	<td valign="top" colspan="2">May 14<br><strong>No on-campus meeting; Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight</a><br>Have a great summer!<br></strong>
 	</td>
 </tr>
 </table>
