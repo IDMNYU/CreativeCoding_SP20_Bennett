@@ -11,7 +11,7 @@ Using Word or another text editor, reflect on the following:
 
 • ***Comment on your successes and frustrations with Processing and P5.js.***
 
-• ***Compare and contrast OOP versus Procedural Programming.***
+• ***Compare and contrast OOP versus Procedural Programming. How are they similiar? How are they different?***
 
 
 • ***Specifically considering your final project: What programming concepts solidified in your final project? What did you learn with reference to programming? Did you have a break through?***
@@ -38,4 +38,4 @@ Using Word or another text editor, reflect on the following:
 
 
 
-# All of the above must be submitted by noon on May 13
+# All of the above must be submitted by midnight on Thursday May 14
